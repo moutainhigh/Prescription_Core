@@ -1,0 +1,13 @@
+filter=com.alibaba.dubbo.rpc.protocol.ProtocolFilterWrapper
+listener=com.alibaba.dubbo.rpc.protocol.ProtocolListenerWrapper
+mock=com.alibaba.dubbo.rpc.support.MockProtocol
+rest=com.alibaba.dubbo.rpc.protocol.rest.RestProtocol
+redis=com.alibaba.dubbo.rpc.protocol.redis.RedisProtocol
+injvm=com.alibaba.dubbo.rpc.protocol.injvm.InjvmProtocol
+dubbo=com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol
+hessian=com.alibaba.dubbo.rpc.protocol.hessian.HessianProtocol
+com.alibaba.dubbo.rpc.protocol.http.HttpProtocol
+rmi=com.alibaba.dubbo.rpc.protocol.rmi.RmiProtocol
+com.alibaba.dubbo.rpc.protocol.webservice.WebServiceProtocol
+registry=com.alibaba.dubbo.registry.integration.RegistryProtocol
+mockprotocol=com.alibaba.dubbo.config.support.MockProtocol

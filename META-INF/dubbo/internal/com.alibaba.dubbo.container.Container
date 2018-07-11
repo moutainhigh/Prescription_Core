@@ -1,0 +1,2 @@
+logback=com.alibaba.dubbo.container.logback.LogbackContainer
+spring=com.alibaba.dubbo.container.spring.SpringContainer

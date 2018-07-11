@@ -1,0 +1,5 @@
+redis=com.alibaba.dubbo.registry.redis.RedisRegistryFactory
+mockregistry=com.alibaba.dubbo.config.support.MockRegistryFactory
+zookeeper=com.alibaba.dubbo.registry.zookeeper.ZookeeperRegistryFactory
+multicast=com.alibaba.dubbo.registry.multicast.MulticastRegistryFactory
+dubbo=com.alibaba.dubbo.registry.dubbo.DubboRegistryFactory
